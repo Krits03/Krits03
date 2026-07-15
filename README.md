@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Krits03. This is my code account.
+My main account [wkk-dev](https://github.com/wkk-dev)
 
 <!--
 **Krits03/Krits03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
