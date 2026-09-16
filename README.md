@@ -2,7 +2,7 @@
 I'm Krits03. This is my code account.
 
 My main account [wkk-dev](https://github.com/wkk-dev)
-<img src="https://github.com/Krits03/Krits03/blob/main/github-metrics.svg)" alt="My Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/Krits03/Krits03/refs/heads/main/github-metrics.svg" alt="My Metrics" width="100%">
 
 <!--
 **Krits03/Krits03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
