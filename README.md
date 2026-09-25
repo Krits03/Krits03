@@ -1,3 +1,7 @@
 ## Hi there 👋
 I'm Krits03.
-<img src="https://raw.githubusercontent.com/Krits03/Krits03/refs/heads/main/github-metrics.svg" alt="My Metrics" width="100%">
+![](https://github-card.kr033.top/api/cards/profile-details?username=Krits03&theme=default&animation=stagger)
+![](https://github-card.kr033.top/api/cards/repos-per-language?username=Krits03&theme=default&animation=stagger)
+![](https://github-card.kr033.top/api/cards/most-commit-language?username=Krits03&theme=default&animation=stagger)
+![](https://github-card.kr033.top/api/cards/stats?username=Krits03&theme=default&animation=stagger)
+![](https://github-card.kr033.top/api/cards/productive-time?username=Krits03&theme=default&animation=stagger&utcOffset=0)
