@@ -1,4 +1,4 @@
-## Hi there 👋 >.<  I'm Krits03.
+## Hi there 👋 >.<    I'm Krits03.
 ![](https://github-card.kr033.top/api/cards/profile-details?username=Krits03&theme=default&animation=stagger)
 | GitHub Stats | Most Commit Language |
 |---|---|
